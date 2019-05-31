@@ -1,2 +1,6 @@
 
 *.dll
+NicheNameSorter/bin*
+NicheNameSorter/obj*
+NicheNameSorter.UnitTests/bin*
+NicheNameSorter.UnitTests/obj*
