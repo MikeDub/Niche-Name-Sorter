@@ -1,7 +1,9 @@
 # 
-Niche Name Sorter
+Niche Name Sorter 
 =========
 Developed by Michael Whitman
+
+[![Build Status](https://travis-ci.com/MikeDub/Niche-Name-Sorter.svg?branch=master)](https://travis-ci.com/MikeDub/Niche-Name-Sorter) (travis image bug)
 
 Sorts a given set of names, ordered by last name, then given names, performance tested across 4000 names.
 
